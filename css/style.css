@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+.section{
+	padding: 60px 0;
+	background-color: #974041;
+}
+
+
+#hero .title{
+	text-align: center;
+	margin-top: 130px;
+	margin-bottom: 20px;
+	margin-right: 30px;
+	
+	
+}
+
+#hero h3{
+	text-transform: uppercase;
+	color: #000000;
+	font-size: 13px;
+	letter-spacing: 2px;
+	margin-bottom: 30px;
+}
+
+.section2{
+	padding: 60px;
+	background-color:#FFFFFF ;
+}
+
+#hero2 h1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#hero2 p{
+	text-align: center;
+	font-size: 30px;
+	
+}
+#contact-form{
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	background-color: #CB743A;
+	
+
+}
+#fotosola{
+	
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+#contact-form h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	color: #000000;
+}
+footer{
+	text-align: left;
+	padding-bottom: 13px;
+	padding-top: 13px;
+	background-color:#CB743A; 
+	font-size: 15px;
+	color: #000000;
+}
+
+#hero h2{
+	margin-bottom: 15px; 
+}
+#contact-form btn{
+	background-color: green;
+	color: green;
+}
